@@ -11,22 +11,22 @@
 <br/>
 <br/>
 	<br/>
-	 ${{\color{#a9838c}{\textsf{ metalhead, rocker + noise not music fan, ill listen to anything with good guitar riffs :-) }}}}$
+	 ${{\color{#89718c}{\textsf{ metalhead, rocker + noise not music fan, ill listen to anything with good guitar riffs :-) }}}}$
 	<br/>
 	 ${{\color{#b3b3b8}{\textsf{' number 1 pothead on earth }}}}$
 	<br/>
 	<br/>
-	${{\color{#a9838c}{\textsf{ diagnosed and currently under treatment for}}}}$ <a href="https://my.clevelandclinic.org/health/diseases/17786-intermittent-explosive-disorder">ied</a> ${{\color{#a9838c}{\textsf{, iwc at times }}}}$
+	${{\color{#89718c}{\textsf{ diagnosed and currently under treatment for}}}}$ <a href="https://my.clevelandclinic.org/health/diseases/17786-intermittent-explosive-disorder">ied</a> ${{\color{#a9838c}{\textsf{, iwc at times }}}}$
 	<br/>
 	${{\color{#b3b3b8}{\textsf{misanthrope , frequent masker of it}}}}$
 	<br/>
 	<br/>
 	<br/>
 	<br/>
-	 ${{\color{#a9838c}{\textsf{ fandoms im in [ white = current fixation(s) ] }}}}$
+	 ${{\color{#89718c}{\textsf{ fandoms im in [ white = current fixation(s) ] }}}}$
 	<br/>
 	<br/>
-	${{\color{#b3b3b8}{\textsf{TF2}}}}$  , ${{\color{#b3b3b8}{\textsf{metalocalypse}}}}$  , ${{\color{#a9838c}{\textsf{inglourious basterds}}}}$  , ${{\color{#a9838c}{\textsf{the day of the jackal}}}}$  , ${{\color{#a9838c}{\textsf{eddsworld}}}}$  , ${{\color{#a9838c}{\textsf{homestuck}}}}$  , ${{\color{#a9838c}{\textsf{murder drones [fandom iwvec, i dont like a lot of you]}}}}$
+	${{\color{#b3b3b8}{\textsf{TF2}}}}$  , ${{\color{#b3b3b8}{\textsf{metalocalypse}}}}$  , ${{\color{#89718c}{\textsf{inglourious basterds}}}}$  , ${{\color{#89718c}{\textsf{the day of the jackal}}}}$  , ${{\color{#89718c}{\textsf{eddsworld}}}}$  , ${{\color{#89718c}{\textsf{homestuck}}}}$  , ${{\color{#89718c}{\textsf{murder drones [fandom iwvec, i dont like a lot of you]}}}}$
 	<br/>
 	<br/>
  <p align="center">
