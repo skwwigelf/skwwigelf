@@ -44,4 +44,4 @@
 <img width="732" height="9" alt="image" src="https://file.garden/aSd5lebnTCh3RN_v/github/image%20(10).png" />
    <br/>
 	<br/>
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amarna&size=21&duration=3000&pause=100&color=89718C&width=435&lines=Bow+down+before+the+one+you+serve+%2C;you're+going+to+get+what+you+deserve+!" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amarna&size=21&duration=3000&pause=100&color=89718C&center=true&width=435&lines=Bow+down+before+the+one+you+serve+%2C;you're+going+to+get+what+you+deserve+!" alt="Typing SVG" /></a>
