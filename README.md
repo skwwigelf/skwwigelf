@@ -3,35 +3,35 @@
    <br/>
    <br/>
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=sskwigelf&color=525f35&style=for-the-badge&label=my+fans&base=1341" width="100">
+   <img src="https://komarev.com/ghpvc/?username=sskwigelf&color=89718c&style=for-the-badge&label=my+fans&base=1341" width="100">
 <br/>
 <br/>
 <br/>
- ${{\color{#6d4e12}{\textsf{' skwis / skwisgaar / jeremy ⛧ '}}}}$
+ ${{\color{#b3b3b8}{\textsf{' skwis / skwisgaar / jeremy ⛧ '}}}}$
 <br/>
 <br/>
 	<br/>
-	 ${{\color{#274c2f}{\textsf{ metalhead, rocker + noise not music fan, ill listen to anything with good guitar riffs :-) }}}}$
+	 ${{\color{#a9838c}{\textsf{ metalhead, rocker + noise not music fan, ill listen to anything with good guitar riffs :-) }}}}$
 	<br/>
-	 ${{\color{#6d4e12}{\textsf{' number 1 pothead on earth }}}}$
-	<br/>
-	<br/>
-	${{\color{#274c2f}{\textsf{ diagnosed and currently under treatment for}}}}$ <a href="https://my.clevelandclinic.org/health/diseases/17786-intermittent-explosive-disorder">ied</a> ${{\color{#274c2f}{\textsf{, iwc at times }}}}$
-	<br/>
-	${{\color{#6d4e12}{\textsf{misanthrope , frequent masker of it}}}}$
+	 ${{\color{#b3b3b8}{\textsf{' number 1 pothead on earth }}}}$
 	<br/>
 	<br/>
+	${{\color{#a9838c}{\textsf{ diagnosed and currently under treatment for}}}}$ <a href="https://my.clevelandclinic.org/health/diseases/17786-intermittent-explosive-disorder">ied</a> ${{\color{#a9838c}{\textsf{, iwc at times }}}}$
+	<br/>
+	${{\color{#b3b3b8}{\textsf{misanthrope , frequent masker of it}}}}$
 	<br/>
 	<br/>
-	 ${{\color{#274c2f}{\textsf{ fandoms im in [ yellow = current fixation(s) ] }}}}$
 	<br/>
 	<br/>
-	${{\color{#6d4e12}{\textsf{TF2}}}}$  , ${{\color{#6d4e12}{\textsf{metalocalypse}}}}$  , ${{\color{#274c2f}{\textsf{inglourious basterds}}}}$  , ${{\color{#274c2f}{\textsf{the day of the jackal}}}}$  , ${{\color{#274c2f}{\textsf{eddsworld}}}}$  , ${{\color{#274c2f}{\textsf{homestuck}}}}$  , ${{\color{#274c2f}{\textsf{murder drones [fandom iwvec, i dont like a lot of you]}}}}$
+	 ${{\color{#a9838c}{\textsf{ fandoms im in [ white = current fixation(s) ] }}}}$
+	<br/>
+	<br/>
+	${{\color{#b3b3b8}{\textsf{TF2}}}}$  , ${{\color{#b3b3b8}{\textsf{metalocalypse}}}}$  , ${{\color{#a9838c}{\textsf{inglourious basterds}}}}$  , ${{\color{#a9838c}{\textsf{the day of the jackal}}}}$  , ${{\color{#a9838c}{\textsf{eddsworld}}}}$  , ${{\color{#a9838c}{\textsf{homestuck}}}}$  , ${{\color{#a9838c}{\textsf{murder drones [fandom iwvec, i dont like a lot of you]}}}}$
 	<br/>
 	<br/>
  <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ngu3t6dm6zdduut6ctik7y6qri&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=604c17&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ngu3t6dm6zdduut6ctik7y6qri&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=7e5f81&bar_color_cover=false">
   </a>
 </p>
 <br/>
