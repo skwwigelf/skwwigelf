@@ -16,7 +16,7 @@
 	 ${{\color{#b3b3b8}{\textsf{' number 1 pothead on earth }}}}$
 	<br/>
 	<br/>
-	${{\color{#89718c}{\textsf{ diagnosed and currently under treatment for}}}}$ <a href="https://my.clevelandclinic.org/health/diseases/17786-intermittent-explosive-disorder">ied</a> ${{\color{#a9838c}{\textsf{, iwc at times }}}}$
+	${{\color{#89718c}{\textsf{ diagnosed and currently under treatment for}}}}$ <a href="https://my.clevelandclinic.org/health/diseases/17786-intermittent-explosive-disorder">ied</a> ${{\color{#89718c}{\textsf{, iwc at times }}}}$
 	<br/>
 	${{\color{#b3b3b8}{\textsf{misanthrope , frequent masker of it}}}}$
 	<br/>
