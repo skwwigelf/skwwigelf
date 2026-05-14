@@ -18,7 +18,7 @@
 	<br/>
 	${{\color{#89718c}{\textsf{ diagnosed and currently under treatment for}}}}$ <a href="https://my.clevelandclinic.org/health/diseases/17786-intermittent-explosive-disorder">ied</a> ${{\color{#89718c}{\textsf{, iwc at times }}}}$
 	<br/>
-	${{\color{#b3b3b8}{\textsf{misanthrope , frequent masker of it}}}}$
+	${{\color{#b3b3b8}{\textsf{HEAVY misanthrope , frequent masker of it}}}}$
 	<br/>
 	<br/>
 	<br/>
