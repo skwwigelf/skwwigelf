@@ -29,10 +29,6 @@
   </div>
   <div align="right">
 
-  <p align="center">
-<div class="center-container">
-  <a href="https://pronouns.cc/skwigelf">prnscc</a>
-</div>
 
 <br/>
   <p align="center">
