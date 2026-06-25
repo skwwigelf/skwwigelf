@@ -12,22 +12,22 @@
 <p align="center">
 <img src="https://file.garden/aSd5lebnTCh3RN_v/guiatr%20(1).gif" width="400" align="left" hspace="25"/>
 
-<div align="center">
+<div align="right">
   <table>
     <tr>
-      <td align="center"
+      <td align="right"
       <td><br/>$\color{#fbf7eb}{\textsf{⠀⠀⠀skwisgaar ›› casper⠀⠀⠀}}$<br/>
-          $\color{#d8e3d2}{\textsf{⠀⠀⠀he / him unless specified⠀⠀⠀}}$<br/>
-          $\color{#b0c5b6}{\textsf{⠀⠀⠀stoner + mentally ill , iwc⠀⠀⠀}}$<br/>
-          $\color{#647e7d}{\textsf{⠀⠀⠀heavy skwisgaar kin , doubles D̲N̲I̲ as i can get very aggressive⠀⠀⠀}}$<br/>
-          $\color{#486783}{\textsf{⠀⠀⠀c + h encouraged , mostly offtab so w2i⠀⠀⠀}}$<br/>
-          $\color{#48779f}{\textsf{⠀⠀⠀i⠀ ♡⠀ my pickles and murderface ( bf and gf )⠀⠀}}$<br/>
+          $\color{#d8e3d2}{\textsf{he / him unless specified⠀⠀⠀}}$<br/>
+          $\color{#b0c5b6}{\textsf{stoner + mentally ill , iwc⠀⠀⠀}}$<br/>
+          $\color{#647e7d}{\textsf{heavy skwisgaar kin , doubles D̲N̲I̲ as i can get very aggressive⠀⠀⠀}}$<br/>
+          $\color{#486783}{\textsf{c + h encouraged , mostly offtab so w2i⠀⠀⠀}}$<br/>
+          $\color{#48779f}{\textsf{i⠀ ♡⠀ my pickles and murderface ( bf and gf )⠀⠀}}$<br/>
           <br/>
       </td>
     </tr>
   </table>
   </div>
-  <div align="center">
+  <div align="right">
 
 <br/>
   <p align="center">
