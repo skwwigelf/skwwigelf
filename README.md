@@ -35,12 +35,12 @@
    <img src="https://file.garden/aSd5lebnTCh3RN_v/tumblr_5e0f8cc60c3a2fe139699d464560fd3f_2e3d566a_540.gif">
 <br/>
       
-  ⠀ ⠀  ⠀ ⠀ [prnscc](https://pronouns.cc/skwigelf)⠀ ⠀ ⠀ ⠀ ⠀⠀ata wip ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀  ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀
+  ⠀ ⠀  ⠀ ⠀ [prnscc](https://pronouns.cc/skwigelf)⠀ ⠀ ⠀ ⠀ ⠀⠀ata wip ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀   ⠀ ⠀ ⠀ ⠀ ⠀
   <br/>
   <br/>
   <br/>
   
-  <p align="left">
+  <p align="right">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ngu3t6dm6zdduut6ctik7y6qri&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=395074&bar_color_cover=false">
   </a>
