@@ -37,9 +37,11 @@
       
   ⠀ ⠀  ⠀ ⠀ [prnscc](https://pronouns.cc/skwigelf)⠀ ⠀ ⠀ ⠀ ⠀⠀ata wip⠀ ⠀ 
   
+  <br/>
+  <br/>
   
   <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ngu3t6dm6zdduut6ctik7y6qri&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=fcfff0&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ngu3t6dm6zdduut6ctik7y6qri&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=395074&bar_color_cover=false">
   </a>
-</p>⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀
+</p> ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀
