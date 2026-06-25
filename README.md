@@ -29,6 +29,7 @@
   </div>
   <div align="right">
 
+[prnscc](https://pronouns.cc/skwigelf)
 <br/>
   <p align="center">
    <img src="https://file.garden/aSd5lebnTCh3RN_v/tumblr_5e0f8cc60c3a2fe139699d464560fd3f_2e3d566a_540.gif">
