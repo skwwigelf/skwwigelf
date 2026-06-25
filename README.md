@@ -15,7 +15,7 @@
 <div align="right">
   <table>
     <tr>
-      <td align="right"
+      <td align="center"
       <td><br/>$\color{#fbf7eb}{\textsf{⠀⠀⠀skwisgaar ›› casper⠀⠀⠀}}$<br/>
           $\color{#d8e3d2}{\textsf{he / him unless specified⠀⠀⠀}}$<br/>
           $\color{#b0c5b6}{\textsf{stoner + mentally ill , iwc⠀⠀⠀}}$<br/>
