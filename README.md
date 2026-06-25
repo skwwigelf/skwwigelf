@@ -10,7 +10,7 @@
 <br/>
 <br/>
 <p align="center">
-<img src="https://file.garden/aSd5lebnTCh3RN_v/guiatr%20(1).gif" width="400" align="left" hspace="25"/>
+<img src="https://file.garden/aSd5lebnTCh3RN_v/guiatr%20(1).gif" width="300" align="left" hspace="25"/>
 
 <div align="right">
   <table>
