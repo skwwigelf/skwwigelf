@@ -35,7 +35,7 @@
    <img src="https://file.garden/aSd5lebnTCh3RN_v/tumblr_5e0f8cc60c3a2fe139699d464560fd3f_2e3d566a_540.gif">
 <br/>
       
-  ⠀ ⠀  ⠀ ⠀ [prnscc](https://pronouns.cc/skwigelf)⠀ ⠀ ⠀ ⠀ ⠀⠀[ata](https://skwisgar.atabook.org) ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀    ⠀ ⠀
+  ⠀ ⠀ ›› ⠀ ⠀ [prnscc](https://pronouns.cc/skwigelf)⠀ ⠀ ⠀ ⠀ ⠀⠀[ata](https://skwisgar.atabook.org) ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀    ⠀ ⠀
   <br/>
   <br/>
   <br/>
