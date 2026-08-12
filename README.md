@@ -16,7 +16,7 @@
   <table>
     <tr>
       <td align="center"
-      <td><br/>$\color{#fbf7eb}{\textsf{⠀⠀⠀skwisgaar ›› casper⠀⠀⠀}}$<br/>
+      <td><br/>$\color{#fbf7eb}{\textsf{⠀⠀⠀skwisgaar ›› jeremy ›› scout⠀⠀⠀}}$<br/>
           $\color{#d8e3d2}{\textsf{he / him unless specified⠀⠀⠀}}$<br/>
           $\color{#b0c5b6}{\textsf{stoner , misanthrope + mentally ill , iwc⠀⠀⠀}}$<br/>
           $\color{#647e7d}{\textsf{heavy skwisgaar and scout kin , doubles D̲N̲I̲ as i can get very aggressive⠀⠀⠀}}$<br/>
