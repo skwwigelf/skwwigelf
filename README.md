@@ -9,7 +9,7 @@
 <br/>
 <br/>
 <p align="center">
-<img src="https://file.garden/aSd5lebnTCh3RN_v/ezgif.com-gif-maker%20(1).gif" width="310" align="left" hspace="25"/>
+<img src="https://file.garden/aSd5lebnTCh3RN_v/ezgif.com-gif-maker%20(1).gif" width="300" align="left" hspace="25"/>
 
 <div align="right">
   <table>
