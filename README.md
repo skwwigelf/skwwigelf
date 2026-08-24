@@ -18,7 +18,7 @@
       <td><br/>$\color{#C35555}{\textsf{⠀⠀scout⠀⠀ৎ⠀⠀jeremy⠀⠀ৎ⠀⠀skwis⠀⠀}}$<br/>
           $\color{#C76F69}{\textsf{⠀he / him unless specified⠀⠀⠀}}$<br/>
           $\color{#CB8A7D}{\textsf{⠀stoner, misanthrope + mentally ill , iwc⠀⠀⠀}}$<br/>
-          $\color{#D0A492}{\textsf{⠀heavy scout (red scout) kin , doubles iwvec respectfully as i get jealous ez⠀⠀⠀}}$<br/>
+          $\color{#D0A492}{\textsf{⠀heavy scout (red scout) kin , doubles iwec respectfully as i get jealous ez⠀⠀⠀}}$<br/>
           $\color{#D4BFA6}{\textsf{c + h encouraged , mostly offtab so w2i⠀⠀⠀}}$<br/>
           $\color{#D8D9BA}{\textsf{i⠀ ♡⠀ my medic and ass pancakes ( gf and bf )⠀⠀}}$<br/>
           <br/>
